@@ -1,6 +1,6 @@
 # Cost-Manager
 
-Money management app
+Desktop application of money management.
 
 https://www.youtube.com/watch?v=hCIxo7opgpk
 
